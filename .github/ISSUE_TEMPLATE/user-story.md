@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**As a**
-**I need**
-**So that**
-
-## Details and assumptions
-*Document what I know
-
-##Acceptance criteria
-
-''Ghirken template
-
-**Given [some precondition]
-**When [some action]
-**Then [result of action should give expected outcome]
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
+ * [document what you know]
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
